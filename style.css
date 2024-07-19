@@ -1,0 +1,29 @@
+header { 
+    background-color: rgba(8, 97, 109, 0.664);
+    text-align: center;
+    padding: 10px;
+    color: blue;
+
+}
+body{
+  background-color: rgba(8, 97, 109, 0.664);
+}
+a{
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+    Text-decoration: none;
+}
+h2{
+    color:aqua;
+    text-align: center;
+}
+maim p{
+    text-align: center;
+    border: 3px solid black;
+
+}
+main img{
+    height: 200px;
+    width: 200px;
+}
